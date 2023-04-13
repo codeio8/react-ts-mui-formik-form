@@ -8,7 +8,7 @@ import { Paper, ThemeProvider, Typography } from '@mui/material'
 
 import { CreateUserForm } from './components/CreateUserForm'
 import MuiTheme from './settings/MuiTheme'
-import background from './assets/background.jpg'
+import background from '../public/background.jpg'
 
 function App() {
   return (
